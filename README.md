@@ -1,2 +1,2 @@
-# django-bexio-oauth2
+# django-bexio-connector
 Bexio oauth2 connector for Django
